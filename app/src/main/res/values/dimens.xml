@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="text_minus">12sp</dimen>
+    <dimen name="text_extra_minus">10sp</dimen>
+    <dimen name="text_mayus">15sp</dimen>
+    <dimen name="text_extra_mayus">20sp</dimen>
+    <dimen name="padding_default">10dp</dimen>
+    <dimen name="margin_default">10dp</dimen>
+</resources>

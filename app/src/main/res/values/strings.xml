@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">The Movie DB</string>
+
+    <!--Movies Main-->
+    <string name="label_popular_movies">Películas Populares</string>
+    <string name="label_top_rated_movies">Peliculas Más Valoradas</string>
+    <string name="label_upcoming_movies">Próximos Estrenos</string>
+
+    <!--DrawerLayout-->
+    <string name="navigation_drawer_open">Drawer Open</string>
+    <string name="navigation_drawer_close">Drawer Closed</string>
+    <string name="menu_news">Novedades</string>
+    <string name="menu_movies">Películas</string>
+    <string name="menu_popular">Populares</string>
+    <string name="menu_top_rated">Top Rated</string>
+    <string name="menu_upcoming">Upcoming</string>
+    <string name="menu_series">Series</string>
+
+    <!--ProgressDialog-->
+    <string name="dialog_get_info">Obteniendo Información …</string>
+</resources>
