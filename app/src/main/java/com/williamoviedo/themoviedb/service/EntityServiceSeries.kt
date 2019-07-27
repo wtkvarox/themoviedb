@@ -23,4 +23,6 @@ interface EntityServiceSeries {
         @Query("api_key") apiKey: String?,
         @Query("language") language: String
     ): Call<ItemTvSerie>
+
+    // Cambio Intencional desde Ubuntu
 }
